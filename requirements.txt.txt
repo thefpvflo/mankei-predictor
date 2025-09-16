@@ -1,5 +1,7 @@
-﻿streamlit
-pandas
-numpy
-statsmodels
-openpyxl
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.11.4
+statsmodels==0.14.2
+patsy==0.5.6
+openpyxl==3.1.5
